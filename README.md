@@ -1,2 +1,2 @@
-# PLS_IRS_2025
+# Detail of AO-MM Algorithm
 
